@@ -1,4 +1,4 @@
-# easy-bank-landing-page
+# bank-landing-page
 Bank landing page
 
-https://guizk.github.io/easy-bank-landing-page/
+https://guizk.github.io/bank-landing-page/
